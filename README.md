@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+A modern AI-powered chatbot built with React, TypeScript, and Vite, integrated with Google Gemini API to provide fast, intelligent, and natural conversations.
+This project is designed as a learning  focusing on clean UI, real-time responses, and secure API handling.
 
-This contains everything you need to run your app locally.
+Features**
+**
+AI-powered conversational assistant
+Real-time chat interface
+Fast and lightweight (Vite-powered)
+Clean and responsive UI
+Secure API key handling using environment variables
+Modular and scalable code structure
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ARRMtoVMiQ5VEy5NB7f3BO_Klyfwaun0
+**
+Tech Stack**
 
-## Run Locally
+Frontend: React + TypeScript
 
-**Prerequisites:**  Node.js
+Build Tool: Vite
 
+AI Integration: Google Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Styling: CSS
+
+Version Control: Git & GitHub
