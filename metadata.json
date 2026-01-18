@@ -1,0 +1,5 @@
+{
+  "name": "Abys AI Assistant",
+  "description": "A high-performance, dark-themed conversational assistant powered by Gemini 3 Pro, featuring secure authentication flows and a professional interface.",
+  "requestFramePermissions": []
+}
